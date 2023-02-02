@@ -2,7 +2,7 @@
 
 [PEET](https://bio3d.colorado.edu/peet/) is subtomogram averaging
 package developed and maintained by the University of Colorado at
-at Boulder. PEET is free, open-source, and is supported on Linux, 
+Boulder. PEET is free, open-source, and is supported on Linux, 
 MacOS, and Windows. Please see the link above for binaries, source 
 code, and documentation. For example, subtomogram averaging of the 
 5 tomogram subset of EMPIAR-10164 to near atomic resolution using 
